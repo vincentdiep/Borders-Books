@@ -1,5 +1,5 @@
-# CPSC-131-Project-1
-Borders Books
+
+# Borders Books
 
 Group members:
 
